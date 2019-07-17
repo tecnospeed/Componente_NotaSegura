@@ -1,0 +1,46 @@
+unit uFormDemonstracao;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls,spdNotaSegura_TLB;
+
+type
+  TForm1 = class(TForm)
+    memXML: TMemo;
+    Label1: TLabel;
+    edtEmailCliente: TEdit;
+    Label2: TLabel;
+    edtSenhaCliente: TEdit;
+    Label3: TLabel;
+    edtToken: TEdit;
+    Label4: TLabel;
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  spdNotaSegura: TspdNotaSeguraX;
+begin
+  spdNotaSegura := TspdNotaSeguraX.Create(nil);
+
+  spdNotaSegura.Token := 'token';
+  spdNotaSegura.Login := 'email-cliente@email.com';
+  spdNotaSegura.Senha := 'senha-do-cliente';
+  memXML.Text := spdNotaSegura.EnviarXml('Conteúdo do XML da nota');
+end;
+
+end.

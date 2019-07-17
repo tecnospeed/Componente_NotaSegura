@@ -1,0 +1,14 @@
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\bin\Debug\NotaSegura.exe.config
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\bin\Debug\NotaSegura.exe
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\bin\Debug\NotaSegura.pdb
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\bin\Debug\NotaSegura.xml
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.vbprojAssemblyReference.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\Interop.spdNotaSegura.dll
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.vbproj.ResolveComReference.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.Form1.resources
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.Resources.resources
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.vbproj.GenerateResource.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.vbproj.CoreCompileInputs.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.exe
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.xml
+C:\Users\felipe.vebanek\source\repos\NotaSegura\NotaSegura\obj\Debug\NotaSegura.pdb

@@ -1,0 +1,12 @@
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\bin\Debug\NotaSegura CSHARP.exe.config
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\bin\Debug\NotaSegura CSHARP.exe
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\bin\Debug\NotaSegura CSHARP.pdb
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura CSHARP.csprojAssemblyReference.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\Interop.spdNotaSegura.dll
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura CSHARP.csproj.ResolveComReference.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura_CSHARP.Form1.resources
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura_CSHARP.Properties.Resources.resources
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura CSHARP.csproj.GenerateResource.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura CSHARP.exe
+C:\Users\felipe.vebanek\source\repos\NotaSegura CSHARP\NotaSegura CSHARP\obj\Debug\NotaSegura CSHARP.pdb
